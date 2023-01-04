@@ -1,0 +1,1044 @@
+2022-12-07 11:25:53 INFO  RoundTripTest:25 - Verifying Home Page Title
+2022-12-07 11:25:53 INFO  RoundTripTest:27 - Clicking on Flights
+2022-12-07 11:25:56 INFO  RoundTripTest:31 - Verifying Flight Page Title
+2022-12-07 11:25:56 INFO  RoundTripTest:33 - Entering From Text
+2022-12-07 11:25:56 INFO  RoundTripTest:35 - Entering To Text
+2022-12-07 11:25:56 INFO  RoundTripTest:37 - Clicking on Departure Date
+2022-12-07 11:25:56 INFO  RoundTripTest:39 - Clicking on Current Date
+2022-12-07 11:25:56 INFO  RoundTripTest:41 - Clicking on Return Date
+2022-12-07 11:25:56 INFO  RoundTripTest:43 - Clicking on Next Return Date
+2022-12-07 11:25:56 INFO  RoundTripTest:45 - Clicking on Flight Search
+2022-12-07 11:26:03 INFO  RoundTripTest:48 - Verifying Flight Selection Page Title
+2022-12-07 11:26:03 INFO  RoundTripTest:50 - Selecting Flight
+2022-12-07 11:26:07 INFO  RoundTripTest:53 - Verifying Flight Booking Page Title
+2022-12-07 11:31:07 INFO  RoundTripTest:25 - Verifying Home Page Title
+2022-12-07 11:31:07 INFO  RoundTripTest:27 - Clicking on Flights
+2022-12-07 11:31:09 INFO  RoundTripTest:31 - Verifying Flight Page Title
+2022-12-07 11:31:09 INFO  RoundTripTest:33 - Entering From Text
+2022-12-07 11:31:10 INFO  RoundTripTest:35 - Entering To Text
+2022-12-07 11:31:10 INFO  RoundTripTest:37 - Clicking on Departure Date
+2022-12-07 11:31:10 INFO  RoundTripTest:39 - Clicking on Current Date
+2022-12-07 11:31:10 INFO  RoundTripTest:41 - Clicking on Return Date
+2022-12-07 11:31:10 INFO  RoundTripTest:43 - Clicking on Next Return Date
+2022-12-07 11:31:10 INFO  RoundTripTest:45 - Clicking on Flight Search
+2022-12-07 11:31:31 INFO  RoundTripTest:48 - Verifying Flight Selection Page Title
+2022-12-07 11:31:31 INFO  RoundTripTest:50 - Selecting Flight
+2022-12-07 11:31:35 INFO  RoundTripTest:53 - Verifying Flight Booking Page Title
+2022-12-07 11:33:36 INFO  OneWayTripTest:29 - Verifying Home Page Title
+2022-12-07 11:33:36 INFO  OneWayTripTest:31 - Clicking on Flights
+2022-12-07 11:33:39 INFO  OneWayTripTest:34 - Verifying Flight Page Title
+2022-12-07 11:33:39 INFO  OneWayTripTest:36 - Entering From Text
+2022-12-07 11:33:39 INFO  OneWayTripTest:38 - Entering To Text
+2022-12-07 11:33:39 INFO  OneWayTripTest:40 - Clicking on Departure Date
+2022-12-07 11:33:39 INFO  OneWayTripTest:42 - Clicking on Current Date
+2022-12-07 11:33:39 INFO  OneWayTripTest:44 - Clicking on Flight Search
+2022-12-07 11:33:48 INFO  OneWayTripTest:47 - Verifying Flight Selection Page Title
+2022-12-07 11:33:48 INFO  OneWayTripTest:49 - Selecting Flight
+2022-12-07 11:33:52 INFO  OneWayTripTest:52 - Verifying Flight Booking Page Title
+2022-12-07 11:34:17 INFO  OneWayTripTest:29 - Verifying Home Page Title
+2022-12-07 11:34:17 INFO  OneWayTripTest:31 - Clicking on Flights
+2022-12-07 11:34:20 INFO  OneWayTripTest:34 - Verifying Flight Page Title
+2022-12-07 11:34:20 INFO  OneWayTripTest:36 - Entering From Text
+2022-12-07 11:34:20 INFO  OneWayTripTest:38 - Entering To Text
+2022-12-07 11:34:20 INFO  OneWayTripTest:40 - Clicking on Departure Date
+2022-12-07 11:34:20 INFO  OneWayTripTest:42 - Clicking on Current Date
+2022-12-07 11:34:20 INFO  OneWayTripTest:44 - Clicking on Flight Search
+2022-12-07 11:34:27 INFO  OneWayTripTest:47 - Verifying Flight Selection Page Title
+2022-12-07 11:34:27 INFO  OneWayTripTest:49 - Selecting Flight
+2022-12-07 11:34:32 INFO  OneWayTripTest:52 - Verifying Flight Booking Page Title
+2022-12-07 11:34:32 INFO  RoundTripTest:25 - Verifying Home Page Title
+2022-12-07 11:35:32 INFO  RoundTripTest:25 - Verifying Home Page Title
+2022-12-07 11:35:32 INFO  RoundTripTest:27 - Clicking on Flights
+2022-12-07 11:35:35 INFO  RoundTripTest:31 - Verifying Flight Page Title
+2022-12-07 11:35:35 INFO  RoundTripTest:33 - Entering From Text
+2022-12-07 11:35:35 INFO  RoundTripTest:35 - Entering To Text
+2022-12-07 11:35:35 INFO  RoundTripTest:37 - Clicking on Departure Date
+2022-12-07 11:35:35 INFO  RoundTripTest:39 - Clicking on Current Date
+2022-12-07 11:35:35 INFO  RoundTripTest:41 - Clicking on Return Date
+2022-12-07 11:35:36 INFO  RoundTripTest:43 - Clicking on Next Return Date
+2022-12-07 11:35:36 INFO  RoundTripTest:45 - Clicking on Flight Search
+2022-12-07 11:35:46 INFO  RoundTripTest:48 - Verifying Flight Selection Page Title
+2022-12-07 11:35:46 INFO  RoundTripTest:50 - Selecting Flight
+2022-12-07 11:35:57 INFO  RoundTripTest:53 - Verifying Flight Booking Page Title
+2022-12-07 11:36:32 INFO  OneWayTripTest:29 - Verifying Home Page Title
+2022-12-07 11:36:32 INFO  OneWayTripTest:31 - Clicking on Flights
+2022-12-07 11:36:34 INFO  OneWayTripTest:34 - Verifying Flight Page Title
+2022-12-07 11:36:34 INFO  OneWayTripTest:36 - Entering From Text
+2022-12-07 11:36:34 INFO  OneWayTripTest:38 - Entering To Text
+2022-12-07 11:36:35 INFO  OneWayTripTest:40 - Clicking on Departure Date
+2022-12-07 11:36:35 INFO  OneWayTripTest:42 - Clicking on Current Date
+2022-12-07 11:36:35 INFO  OneWayTripTest:44 - Clicking on Flight Search
+2022-12-07 11:36:43 INFO  OneWayTripTest:47 - Verifying Flight Selection Page Title
+2022-12-07 11:36:43 INFO  OneWayTripTest:49 - Selecting Flight
+2022-12-07 11:36:49 INFO  OneWayTripTest:52 - Verifying Flight Booking Page Title
+2022-12-07 11:36:49 INFO  RoundTripTest:25 - Verifying Home Page Title
+2022-12-07 11:46:53 INFO  OneWayTripTest:29 - Opening the URL
+2022-12-07 11:46:56 INFO  OneWayTripTest:31 - Verifying Home Page Title
+2022-12-07 11:46:56 INFO  OneWayTripTest:33 - Clicking on Flights
+2022-12-07 11:46:58 INFO  OneWayTripTest:36 - Verifying Flight Page Title
+2022-12-07 11:46:58 INFO  OneWayTripTest:38 - Entering From Text
+2022-12-07 11:46:58 INFO  OneWayTripTest:40 - Entering To Text
+2022-12-07 11:46:59 INFO  OneWayTripTest:42 - Clicking on Departure Date
+2022-12-07 11:46:59 INFO  OneWayTripTest:44 - Clicking on Current Date
+2022-12-07 11:46:59 INFO  OneWayTripTest:46 - Clicking on Flight Search
+2022-12-07 11:47:07 INFO  OneWayTripTest:49 - Verifying Flight Selection Page Title
+2022-12-07 11:47:07 INFO  OneWayTripTest:51 - Selecting Flight
+2022-12-07 11:47:12 INFO  OneWayTripTest:54 - Verifying Flight Booking Page Title
+2022-12-07 11:47:12 INFO  RoundTripTest:30 - Opening the URL
+2022-12-07 11:48:26 INFO  OneWayTripTest:29 - Opening the URL
+2022-12-07 11:48:30 INFO  OneWayTripTest:31 - Verifying Home Page Title
+2022-12-07 11:48:30 INFO  OneWayTripTest:33 - Clicking on Flights
+2022-12-07 11:48:33 INFO  OneWayTripTest:36 - Verifying Flight Page Title
+2022-12-07 11:48:33 INFO  OneWayTripTest:38 - Entering From Text
+2022-12-07 11:48:33 INFO  OneWayTripTest:40 - Entering To Text
+2022-12-07 11:48:33 INFO  OneWayTripTest:42 - Clicking on Departure Date
+2022-12-07 11:48:33 INFO  OneWayTripTest:44 - Clicking on Current Date
+2022-12-07 11:48:33 INFO  OneWayTripTest:46 - Clicking on Flight Search
+2022-12-07 11:48:41 INFO  OneWayTripTest:49 - Verifying Flight Selection Page Title
+2022-12-07 11:48:41 INFO  OneWayTripTest:51 - Selecting Flight
+2022-12-07 11:48:46 INFO  OneWayTripTest:54 - Verifying Flight Booking Page Title
+2022-12-07 11:48:46 INFO  RoundTripTest:30 - Opening the URL
+2022-12-07 11:48:48 INFO  RoundTripTest:32 - Verifying Home Page Title
+2022-12-07 11:48:48 INFO  RoundTripTest:34 - Clicking on Flights
+2022-12-07 11:48:50 INFO  RoundTripTest:38 - Verifying Flight Page Title
+2022-12-07 11:48:50 INFO  RoundTripTest:40 - Entering From Text
+2022-12-07 11:48:50 INFO  RoundTripTest:42 - Entering To Text
+2022-12-07 11:48:51 INFO  RoundTripTest:44 - Clicking on Departure Date
+2022-12-07 11:48:51 INFO  RoundTripTest:46 - Clicking on Current Date
+2022-12-07 11:48:51 INFO  RoundTripTest:48 - Clicking on Return Date
+2022-12-07 11:48:51 INFO  RoundTripTest:50 - Clicking on Next Return Date
+2022-12-07 11:48:51 INFO  RoundTripTest:52 - Clicking on Flight Search
+2022-12-07 11:48:55 INFO  RoundTripTest:55 - Verifying Flight Selection Page Title
+2022-12-07 11:48:55 INFO  RoundTripTest:57 - Selecting Flight
+2022-12-07 12:09:40 INFO  OneWayTripTest:29 - Opening the URL
+2022-12-07 12:09:44 INFO  OneWayTripTest:31 - Verifying Home Page Title
+2022-12-07 12:09:44 INFO  OneWayTripTest:33 - Clicking on Flights
+2022-12-07 12:09:46 INFO  OneWayTripTest:36 - Verifying Flight Page Title
+2022-12-07 12:09:46 INFO  OneWayTripTest:38 - Entering From Text
+2022-12-07 12:09:47 INFO  OneWayTripTest:40 - Entering To Text
+2022-12-07 12:09:47 INFO  OneWayTripTest:42 - Clicking on Departure Date
+2022-12-07 12:09:47 INFO  OneWayTripTest:44 - Clicking on Current Date
+2022-12-07 12:09:47 INFO  OneWayTripTest:46 - Clicking on Flight Search
+2022-12-07 12:09:56 INFO  OneWayTripTest:49 - Verifying Flight Selection Page Title
+2022-12-07 12:09:56 INFO  OneWayTripTest:51 - Selecting Flight
+2022-12-07 12:10:01 INFO  OneWayTripTest:54 - Verifying Flight Booking Page Title
+2022-12-07 12:10:01 INFO  RoundTripTest:30 - Opening the URL
+2022-12-07 12:12:26 INFO  OneWayTripTest:29 - Opening the URL
+2022-12-07 12:12:29 INFO  OneWayTripTest:31 - Verifying Home Page Title
+2022-12-07 12:12:29 INFO  OneWayTripTest:33 - Clicking on Flights
+2022-12-07 12:12:32 INFO  OneWayTripTest:36 - Verifying Flight Page Title
+2022-12-07 12:12:32 INFO  OneWayTripTest:38 - Entering From Text
+2022-12-07 12:12:32 INFO  OneWayTripTest:40 - Entering To Text
+2022-12-07 12:12:32 INFO  OneWayTripTest:42 - Clicking on Departure Date
+2022-12-07 12:12:32 INFO  OneWayTripTest:44 - Clicking on Current Date
+2022-12-07 12:12:32 INFO  OneWayTripTest:46 - Clicking on Flight Search
+2022-12-07 12:12:39 INFO  OneWayTripTest:49 - Verifying Flight Selection Page Title
+2022-12-07 12:12:39 INFO  OneWayTripTest:51 - Selecting Flight
+2022-12-07 12:12:44 INFO  OneWayTripTest:54 - Verifying Flight Booking Page Title
+2022-12-07 12:12:44 INFO  RoundTripTest:30 - Opening the URL
+2022-12-07 12:18:23 INFO  OneWayTripTest:29 - Opening the URL
+2022-12-07 12:18:27 INFO  OneWayTripTest:31 - Verifying Home Page Title
+2022-12-07 12:18:27 INFO  OneWayTripTest:33 - Clicking on Flights
+2022-12-07 12:18:29 INFO  OneWayTripTest:36 - Verifying Flight Page Title
+2022-12-07 12:18:29 INFO  OneWayTripTest:38 - Entering From Text
+2022-12-07 12:18:29 INFO  OneWayTripTest:40 - Entering To Text
+2022-12-07 12:18:30 INFO  OneWayTripTest:42 - Clicking on Departure Date
+2022-12-07 12:18:30 INFO  OneWayTripTest:44 - Clicking on Current Date
+2022-12-07 12:18:30 INFO  OneWayTripTest:46 - Clicking on Flight Search
+2022-12-07 12:18:38 INFO  OneWayTripTest:49 - Verifying Flight Selection Page Title
+2022-12-07 12:18:38 INFO  OneWayTripTest:51 - Selecting Flight
+2022-12-07 12:18:42 INFO  OneWayTripTest:54 - Verifying Flight Booking Page Title
+2022-12-07 12:18:42 INFO  RoundTripTest:30 - Opening the URL
+2022-12-07 12:40:36 INFO  OneWayTripTest:29 - Opening the URL
+2022-12-07 12:41:08 INFO  OneWayTripTest:31 - Verifying Home Page Title
+2022-12-07 12:41:08 INFO  OneWayTripTest:33 - Clicking on Flights
+2022-12-07 12:41:10 INFO  OneWayTripTest:36 - Verifying Flight Page Title
+2022-12-07 12:41:10 INFO  OneWayTripTest:38 - Entering From Text
+2022-12-07 12:41:10 INFO  OneWayTripTest:40 - Entering To Text
+2022-12-07 12:41:11 INFO  OneWayTripTest:42 - Clicking on Departure Date
+2022-12-07 12:41:11 INFO  OneWayTripTest:44 - Clicking on Current Date
+2022-12-07 12:41:11 INFO  OneWayTripTest:46 - Clicking on Flight Search
+2022-12-07 12:41:20 INFO  OneWayTripTest:49 - Verifying Flight Selection Page Title
+2022-12-07 12:41:20 INFO  OneWayTripTest:51 - Selecting Flight
+2022-12-07 12:41:25 INFO  OneWayTripTest:54 - Verifying Flight Booking Page Title
+2022-12-07 12:41:25 INFO  RoundTripTest:30 - Opening the URL
+2022-12-07 12:41:28 INFO  RoundTripTest:32 - Verifying Home Page Title
+2022-12-07 12:41:28 INFO  RoundTripTest:34 - Clicking on Flights
+2022-12-07 12:41:31 INFO  RoundTripTest:38 - Verifying Flight Page Title
+2022-12-07 12:41:31 INFO  RoundTripTest:40 - Entering From Text
+2022-12-07 12:41:31 INFO  RoundTripTest:42 - Entering To Text
+2022-12-07 12:41:31 INFO  RoundTripTest:44 - Clicking on Departure Date
+2022-12-07 12:41:31 INFO  RoundTripTest:46 - Clicking on Current Date
+2022-12-07 12:41:32 INFO  RoundTripTest:48 - Clicking on Return Date
+2022-12-07 12:41:32 INFO  RoundTripTest:50 - Clicking on Next Return Date
+2022-12-07 12:41:32 INFO  RoundTripTest:52 - Clicking on Flight Search
+2022-12-07 12:41:36 INFO  RoundTripTest:55 - Verifying Flight Selection Page Title
+2022-12-07 12:41:36 INFO  RoundTripTest:57 - Selecting Flight
+2022-12-07 12:42:04 INFO  OneWayTripTest:29 - Opening the URL
+2022-12-07 12:42:07 INFO  OneWayTripTest:31 - Verifying Home Page Title
+2022-12-07 12:42:07 INFO  OneWayTripTest:33 - Clicking on Flights
+2022-12-07 12:42:10 INFO  OneWayTripTest:36 - Verifying Flight Page Title
+2022-12-07 12:42:10 INFO  OneWayTripTest:38 - Entering From Text
+2022-12-07 12:42:10 INFO  OneWayTripTest:40 - Entering To Text
+2022-12-07 12:42:11 INFO  OneWayTripTest:42 - Clicking on Departure Date
+2022-12-07 12:42:11 INFO  OneWayTripTest:44 - Clicking on Current Date
+2022-12-07 12:42:11 INFO  OneWayTripTest:46 - Clicking on Flight Search
+2022-12-07 12:42:18 INFO  OneWayTripTest:49 - Verifying Flight Selection Page Title
+2022-12-07 12:42:18 INFO  OneWayTripTest:51 - Selecting Flight
+2022-12-07 12:42:23 INFO  OneWayTripTest:54 - Verifying Flight Booking Page Title
+2022-12-07 12:42:23 INFO  RoundTripTest:30 - Opening the URL
+2022-12-07 12:42:37 INFO  RoundTripTest:32 - Verifying Home Page Title
+2022-12-07 12:42:37 INFO  RoundTripTest:34 - Clicking on Flights
+2022-12-07 12:42:39 INFO  RoundTripTest:38 - Verifying Flight Page Title
+2022-12-07 12:42:39 INFO  RoundTripTest:40 - Entering From Text
+2022-12-07 12:42:40 INFO  RoundTripTest:42 - Entering To Text
+2022-12-07 12:42:40 INFO  RoundTripTest:44 - Clicking on Departure Date
+2022-12-07 12:42:40 INFO  RoundTripTest:46 - Clicking on Current Date
+2022-12-07 12:42:40 INFO  RoundTripTest:48 - Clicking on Return Date
+2022-12-07 12:42:40 INFO  RoundTripTest:50 - Clicking on Next Return Date
+2022-12-07 12:42:40 INFO  RoundTripTest:52 - Clicking on Flight Search
+2022-12-07 12:42:44 INFO  RoundTripTest:55 - Verifying Flight Selection Page Title
+2022-12-07 12:42:44 INFO  RoundTripTest:57 - Selecting Flight
+2022-12-07 12:43:53 INFO  OneWayTripTest:29 - Opening the URL
+2022-12-07 12:44:08 INFO  OneWayTripTest:31 - Verifying Home Page Title
+2022-12-07 12:44:08 INFO  OneWayTripTest:33 - Clicking on Flights
+2022-12-07 12:44:10 INFO  OneWayTripTest:36 - Verifying Flight Page Title
+2022-12-07 12:44:10 INFO  OneWayTripTest:38 - Entering From Text
+2022-12-07 12:44:10 INFO  OneWayTripTest:40 - Entering To Text
+2022-12-07 12:44:11 INFO  OneWayTripTest:42 - Clicking on Departure Date
+2022-12-07 12:44:11 INFO  OneWayTripTest:44 - Clicking on Current Date
+2022-12-07 12:44:11 INFO  OneWayTripTest:46 - Clicking on Flight Search
+2022-12-07 12:44:18 INFO  OneWayTripTest:49 - Verifying Flight Selection Page Title
+2022-12-07 12:44:18 INFO  OneWayTripTest:51 - Selecting Flight
+2022-12-07 12:44:23 INFO  OneWayTripTest:54 - Verifying Flight Booking Page Title
+2022-12-07 12:44:23 INFO  RoundTripTest:30 - Opening the URL
+2022-12-07 12:44:35 INFO  RoundTripTest:32 - Verifying Home Page Title
+2022-12-07 12:44:35 INFO  RoundTripTest:34 - Clicking on Flights
+2022-12-07 12:44:38 INFO  RoundTripTest:37 - Verifying Flight Page Title
+2022-12-07 12:44:38 INFO  RoundTripTest:39 - Clicking on Round Trip
+2022-12-07 12:44:38 INFO  RoundTripTest:41 - Entering From Text
+2022-12-07 12:44:38 INFO  RoundTripTest:43 - Entering To Text
+2022-12-07 12:44:38 INFO  RoundTripTest:45 - Clicking on Departure Date
+2022-12-07 12:44:38 INFO  RoundTripTest:47 - Clicking on Current Date
+2022-12-07 12:44:38 INFO  RoundTripTest:49 - Clicking on Return Date
+2022-12-07 12:44:38 INFO  RoundTripTest:51 - Clicking on Next Return Date
+2022-12-07 12:44:39 INFO  RoundTripTest:53 - Clicking on Flight Search
+2022-12-07 12:44:43 INFO  RoundTripTest:56 - Verifying Flight Selection Page Title
+2022-12-07 12:44:43 INFO  RoundTripTest:58 - Selecting Flight
+2022-12-07 12:52:24 INFO  OneWayTripTest:29 - Opening the URL
+2022-12-07 12:53:01 INFO  OneWayTripTest:31 - Verifying Home Page Title
+2022-12-07 12:53:01 INFO  OneWayTripTest:33 - Clicking on Flights
+2022-12-07 12:53:03 INFO  OneWayTripTest:36 - Verifying Flight Page Title
+2022-12-07 12:53:03 INFO  OneWayTripTest:38 - Entering From Text
+2022-12-07 12:53:04 INFO  OneWayTripTest:40 - Entering To Text
+2022-12-07 12:53:04 INFO  OneWayTripTest:42 - Clicking on Departure Date
+2022-12-07 12:53:04 INFO  OneWayTripTest:44 - Clicking on Current Date
+2022-12-07 12:53:04 INFO  OneWayTripTest:46 - Clicking on Flight Search
+2022-12-07 12:53:15 INFO  OneWayTripTest:49 - Verifying Flight Selection Page Title
+2022-12-07 12:53:15 INFO  OneWayTripTest:51 - Selecting Flight
+2022-12-07 12:53:21 INFO  OneWayTripTest:54 - Verifying Flight Booking Page Title
+2022-12-07 12:53:21 INFO  RoundTripTest:30 - Opening the URL
+2022-12-07 12:53:23 INFO  RoundTripTest:32 - Verifying Home Page Title
+2022-12-07 12:53:23 INFO  RoundTripTest:34 - Clicking on Flights
+2022-12-07 12:53:25 INFO  RoundTripTest:37 - Verifying Flight Page Title
+2022-12-07 12:53:25 INFO  RoundTripTest:39 - Clicking on Round Trip
+2022-12-07 12:53:26 INFO  RoundTripTest:41 - Entering From Text
+2022-12-07 12:53:26 INFO  RoundTripTest:43 - Entering To Text
+2022-12-07 12:53:26 INFO  RoundTripTest:45 - Clicking on Departure Date
+2022-12-07 12:53:26 INFO  RoundTripTest:47 - Clicking on Current Date
+2022-12-07 12:53:26 INFO  RoundTripTest:49 - Clicking on Return Date
+2022-12-07 12:53:27 INFO  RoundTripTest:51 - Clicking on Next Return Date
+2022-12-07 12:53:27 INFO  RoundTripTest:53 - Clicking on Flight Search
+2022-12-07 12:53:32 INFO  RoundTripTest:56 - Verifying Flight Selection Page Title
+2022-12-07 12:53:32 INFO  RoundTripTest:58 - Selecting Flight
+2022-12-07 12:59:23 INFO  OneWayTripTest:29 - Opening the URL
+2022-12-07 12:59:48 INFO  OneWayTripTest:31 - Verifying Home Page Title
+2022-12-07 12:59:48 INFO  OneWayTripTest:33 - Clicking on Flights
+2022-12-07 12:59:51 INFO  OneWayTripTest:36 - Verifying Flight Page Title
+2022-12-07 12:59:51 INFO  OneWayTripTest:38 - Entering From Text
+2022-12-07 12:59:51 INFO  OneWayTripTest:40 - Entering To Text
+2022-12-07 12:59:52 INFO  OneWayTripTest:42 - Clicking on Departure Date
+2022-12-07 12:59:52 INFO  OneWayTripTest:44 - Clicking on Current Date
+2022-12-07 12:59:52 INFO  OneWayTripTest:46 - Clicking on Flight Search
+2022-12-07 13:00:03 INFO  OneWayTripTest:49 - Verifying Flight Selection Page Title
+2022-12-07 13:00:03 INFO  OneWayTripTest:51 - Selecting Flight
+2022-12-07 13:00:07 INFO  OneWayTripTest:54 - Verifying Flight Booking Page Title
+2022-12-07 13:00:07 INFO  RoundTripTest:30 - Opening the URL
+2022-12-07 13:00:11 INFO  RoundTripTest:32 - Verifying Home Page Title
+2022-12-07 13:00:11 INFO  RoundTripTest:34 - Clicking on Flights
+2022-12-07 13:00:14 INFO  RoundTripTest:37 - Verifying Flight Page Title
+2022-12-07 13:00:14 INFO  RoundTripTest:39 - Clicking on Round Trip
+2022-12-07 13:00:14 INFO  RoundTripTest:41 - Entering From Text
+2022-12-07 13:00:14 INFO  RoundTripTest:43 - Entering To Text
+2022-12-07 13:00:15 INFO  RoundTripTest:45 - Clicking on Departure Date
+2022-12-07 13:00:15 INFO  RoundTripTest:47 - Clicking on Current Date
+2022-12-07 13:00:15 INFO  RoundTripTest:49 - Clicking on Return Date
+2022-12-07 13:00:15 INFO  RoundTripTest:51 - Clicking on Next Return Date
+2022-12-07 13:00:15 INFO  RoundTripTest:53 - Clicking on Flight Search
+2022-12-07 13:00:24 INFO  RoundTripTest:56 - Verifying Flight Selection Page Title
+2022-12-07 13:00:24 INFO  RoundTripTest:58 - Selecting Flight
+2022-12-07 13:00:27 INFO  RoundTripTest:61 - Verifying Flight Booking Page Title
+2022-12-07 13:00:48 INFO  OneWayTripTest:29 - Opening the URL
+2022-12-07 13:01:03 INFO  OneWayTripTest:31 - Verifying Home Page Title
+2022-12-07 13:01:03 INFO  OneWayTripTest:33 - Clicking on Flights
+2022-12-07 13:01:05 INFO  OneWayTripTest:36 - Verifying Flight Page Title
+2022-12-07 13:01:05 INFO  OneWayTripTest:38 - Entering From Text
+2022-12-07 13:01:06 INFO  OneWayTripTest:40 - Entering To Text
+2022-12-07 13:01:07 INFO  OneWayTripTest:42 - Clicking on Departure Date
+2022-12-07 13:01:07 INFO  OneWayTripTest:44 - Clicking on Current Date
+2022-12-07 13:01:07 INFO  OneWayTripTest:46 - Clicking on Flight Search
+2022-12-07 13:01:14 INFO  OneWayTripTest:49 - Verifying Flight Selection Page Title
+2022-12-07 13:01:14 INFO  OneWayTripTest:51 - Selecting Flight
+2022-12-07 13:01:19 INFO  OneWayTripTest:54 - Verifying Flight Booking Page Title
+2022-12-07 13:01:19 INFO  RoundTripTest:30 - Opening the URL
+2022-12-07 13:01:33 INFO  RoundTripTest:32 - Verifying Home Page Title
+2022-12-07 13:01:33 INFO  RoundTripTest:34 - Clicking on Flights
+2022-12-07 13:01:35 INFO  RoundTripTest:37 - Verifying Flight Page Title
+2022-12-07 13:01:35 INFO  RoundTripTest:39 - Clicking on Round Trip
+2022-12-07 13:01:36 INFO  RoundTripTest:41 - Entering From Text
+2022-12-07 13:01:36 INFO  RoundTripTest:43 - Entering To Text
+2022-12-07 13:01:36 INFO  RoundTripTest:45 - Clicking on Departure Date
+2022-12-07 13:01:36 INFO  RoundTripTest:47 - Clicking on Current Date
+2022-12-07 13:01:36 INFO  RoundTripTest:49 - Clicking on Return Date
+2022-12-07 13:01:37 INFO  RoundTripTest:51 - Clicking on Next Return Date
+2022-12-07 13:01:37 INFO  RoundTripTest:53 - Clicking on Flight Search
+2022-12-07 13:01:45 INFO  RoundTripTest:56 - Verifying Flight Selection Page Title
+2022-12-07 13:01:45 INFO  RoundTripTest:58 - Selecting Flight
+2022-12-07 13:01:48 INFO  RoundTripTest:61 - Verifying Flight Booking Page Title
+2022-12-07 13:02:06 INFO  OneWayTripTest:29 - Opening the URL
+2022-12-07 13:02:19 INFO  OneWayTripTest:31 - Verifying Home Page Title
+2022-12-07 13:02:19 INFO  OneWayTripTest:33 - Clicking on Flights
+2022-12-07 13:02:22 INFO  OneWayTripTest:36 - Verifying Flight Page Title
+2022-12-07 13:02:22 INFO  OneWayTripTest:38 - Entering From Text
+2022-12-07 13:02:22 INFO  OneWayTripTest:40 - Entering To Text
+2022-12-07 13:02:22 INFO  OneWayTripTest:42 - Clicking on Departure Date
+2022-12-07 13:02:22 INFO  OneWayTripTest:44 - Clicking on Current Date
+2022-12-07 13:02:22 INFO  OneWayTripTest:46 - Clicking on Flight Search
+2022-12-07 13:02:30 INFO  OneWayTripTest:49 - Verifying Flight Selection Page Title
+2022-12-07 13:02:30 INFO  OneWayTripTest:51 - Selecting Flight
+2022-12-07 13:02:35 INFO  OneWayTripTest:54 - Verifying Flight Booking Page Title
+2022-12-07 13:02:35 INFO  RoundTripTest:30 - Opening the URL
+2022-12-07 13:02:37 INFO  RoundTripTest:32 - Verifying Home Page Title
+2022-12-07 13:02:37 INFO  RoundTripTest:34 - Clicking on Flights
+2022-12-07 13:02:40 INFO  RoundTripTest:37 - Verifying Flight Page Title
+2022-12-07 13:02:40 INFO  RoundTripTest:39 - Clicking on Round Trip
+2022-12-07 13:02:40 INFO  RoundTripTest:41 - Entering From Text
+2022-12-07 13:02:40 INFO  RoundTripTest:43 - Entering To Text
+2022-12-07 13:02:40 INFO  RoundTripTest:45 - Clicking on Departure Date
+2022-12-07 13:02:40 INFO  RoundTripTest:47 - Clicking on Current Date
+2022-12-07 13:02:40 INFO  RoundTripTest:49 - Clicking on Return Date
+2022-12-07 13:02:40 INFO  RoundTripTest:51 - Clicking on Next Return Date
+2022-12-07 13:02:40 INFO  RoundTripTest:53 - Clicking on Flight Search
+2022-12-07 13:02:50 INFO  RoundTripTest:56 - Verifying Flight Selection Page Title
+2022-12-07 13:02:50 INFO  RoundTripTest:58 - Selecting Flight
+2022-12-07 13:02:53 INFO  RoundTripTest:61 - Verifying Flight Booking Page Title
+2022-12-15 11:28:15 INFO  VisaSubmissionTest:23 - Opening the URL
+2022-12-15 11:28:19 INFO  VisaSubmissionTest:25 - Verifying Home Page Title
+2022-12-15 11:28:19 INFO  VisaSubmissionTest:27 - Clicking on Visa
+2022-12-15 11:28:21 INFO  VisaSubmissionTest:30 - Verifying Visa Page Title
+2022-12-15 11:29:32 INFO  VisaSubmissionTest:23 - Opening the URL
+2022-12-15 11:29:36 INFO  VisaSubmissionTest:25 - Verifying Home Page Title
+2022-12-15 11:29:36 INFO  VisaSubmissionTest:27 - Clicking on Visa
+2022-12-15 11:29:38 INFO  VisaSubmissionTest:30 - Verifying Visa Page Title
+2022-12-15 11:51:03 INFO  VisaSubmissionTest:22 - Opening the Visa URL
+2022-12-15 11:51:06 INFO  VisaSubmissionTest:24 - Verifying Visa Page Title
+2022-12-15 11:51:06 INFO  VisaSubmissionTest:26 - Clicking on From Country Dropdown
+2022-12-15 11:51:09 INFO  VisaSubmissionTest:29 - Select from country
+2022-12-15 11:51:09 INFO  VisaSubmissionTest:31 - Clicking on To Country Dropdown
+2022-12-15 11:51:11 INFO  VisaSubmissionTest:34 - Select to country
+2022-12-15 11:51:11 INFO  VisaSubmissionTest:36 - Clicking on Date
+2022-12-15 11:51:11 INFO  VisaSubmissionTest:38 - Clicking on Current Date
+2022-12-15 11:51:11 INFO  VisaSubmissionTest:40 - Clicking on submit button
+2022-12-15 11:51:15 INFO  VisaSubmissionTest:43 - Verifying Visa Submit Page Title
+2022-12-15 11:51:15 INFO  VisaSubmissionTest:45 - Entering First Name
+2022-12-15 11:51:15 INFO  VisaSubmissionTest:47 - Entering Last Name
+2022-12-15 11:51:15 INFO  VisaSubmissionTest:49 - Entering Email ID
+2022-12-15 11:51:15 INFO  VisaSubmissionTest:51 - Entering Phone Number
+2022-12-15 11:51:16 INFO  VisaSubmissionTest:53 - Clicking on Date Picker
+2022-12-15 11:53:00 INFO  VisaSubmissionTest:22 - Opening the Visa URL
+2022-12-15 11:53:03 INFO  VisaSubmissionTest:24 - Verifying Visa Page Title
+2022-12-15 11:53:03 INFO  VisaSubmissionTest:26 - Clicking on From Country Dropdown
+2022-12-15 11:53:06 INFO  VisaSubmissionTest:29 - Select from country
+2022-12-15 11:53:06 INFO  VisaSubmissionTest:31 - Clicking on To Country Dropdown
+2022-12-15 11:53:08 INFO  VisaSubmissionTest:34 - Select to country
+2022-12-15 11:53:08 INFO  VisaSubmissionTest:36 - Clicking on Date
+2022-12-15 11:53:08 INFO  VisaSubmissionTest:38 - Clicking on Current Date
+2022-12-15 11:53:08 INFO  VisaSubmissionTest:40 - Clicking on submit button
+2022-12-15 11:53:12 INFO  VisaSubmissionTest:43 - Verifying Visa Submit Page Title
+2022-12-15 11:53:12 INFO  VisaSubmissionTest:45 - Entering First Name
+2022-12-15 11:53:12 INFO  VisaSubmissionTest:47 - Entering Last Name
+2022-12-15 11:53:12 INFO  VisaSubmissionTest:49 - Entering Email ID
+2022-12-15 11:53:12 INFO  VisaSubmissionTest:51 - Entering Phone Number
+2022-12-15 11:53:12 INFO  VisaSubmissionTest:53 - Clicking on Date Picker
+2022-12-15 11:53:12 INFO  VisaSubmissionTest:55 - Selecting Date
+2022-12-15 11:53:13 INFO  VisaSubmissionTest:57 - Entering Notes
+2022-12-15 11:53:13 INFO  VisaSubmissionTest:59 - Clicking on Submit
+2022-12-15 11:54:10 INFO  VisaSubmissionTest:22 - Opening the Visa URL
+2022-12-15 11:54:13 INFO  VisaSubmissionTest:24 - Verifying Visa Page Title
+2022-12-15 11:54:13 INFO  VisaSubmissionTest:26 - Clicking on From Country Dropdown
+2022-12-15 11:54:13 INFO  VisaSubmissionTest:28 - Select from country
+2022-12-15 11:54:13 INFO  VisaSubmissionTest:30 - Clicking on To Country Dropdown
+2022-12-15 11:54:13 INFO  VisaSubmissionTest:32 - Select to country
+2022-12-15 11:54:13 INFO  VisaSubmissionTest:34 - Clicking on Date
+2022-12-15 11:54:13 INFO  VisaSubmissionTest:36 - Clicking on Current Date
+2022-12-15 11:54:14 INFO  VisaSubmissionTest:38 - Clicking on submit button
+2022-12-15 11:54:17 INFO  VisaSubmissionTest:41 - Verifying Visa Submit Page Title
+2022-12-15 11:54:17 INFO  VisaSubmissionTest:43 - Entering First Name
+2022-12-15 11:54:17 INFO  VisaSubmissionTest:45 - Entering Last Name
+2022-12-15 11:54:17 INFO  VisaSubmissionTest:47 - Entering Email ID
+2022-12-15 11:54:17 INFO  VisaSubmissionTest:49 - Entering Phone Number
+2022-12-15 11:54:17 INFO  VisaSubmissionTest:51 - Clicking on Date Picker
+2022-12-15 11:54:17 INFO  VisaSubmissionTest:53 - Selecting Date
+2022-12-15 11:54:18 INFO  VisaSubmissionTest:55 - Entering Notes
+2022-12-15 11:54:18 INFO  VisaSubmissionTest:57 - Clicking on Submit
+2022-12-15 11:54:23 INFO  VisaSubmissionTest:60 - Verifying Visa Submission Page Title
+2022-12-15 11:54:23 INFO  VisaSubmissionTest:62 - Verifying Visa Submission Text
+2022-12-15 11:56:55 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2022-12-15 11:56:57 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2022-12-15 11:56:59 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2022-12-15 11:57:02 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2022-12-15 11:57:04 INFO  VisaSubmissionTest:22 - Opening the Visa URL
+2022-12-15 11:57:08 INFO  VisaSubmissionTest:24 - Verifying Visa Page Title
+2022-12-15 11:57:08 INFO  VisaSubmissionTest:26 - Clicking on From Country Dropdown
+2022-12-15 11:57:08 INFO  VisaSubmissionTest:28 - Select from country
+2022-12-15 11:57:59 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2022-12-15 11:58:01 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2022-12-15 11:58:01 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2022-12-15 11:58:03 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2022-12-15 11:58:03 INFO  VisaSubmissionTest:22 - Opening the Visa URL
+2022-12-15 11:58:04 INFO  VisaSubmissionTest:24 - Verifying Visa Page Title
+2022-12-15 11:58:04 INFO  VisaSubmissionTest:26 - Clicking on From Country Dropdown
+2022-12-15 11:58:04 INFO  VisaSubmissionTest:28 - Select from country
+2022-12-15 11:58:22 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2022-12-15 11:58:25 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 17:37:49 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 17:38:26 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 17:40:46 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 17:40:50 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 17:40:50 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 17:40:50 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 17:40:50 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 17:40:51 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 17:40:51 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 17:40:54 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 17:40:54 INFO  OneWayTripTest:44 - Selecting Flight
+2023-01-04 17:41:16 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 17:41:19 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 17:41:19 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 17:41:19 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 17:41:20 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 17:41:20 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 17:41:20 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 17:41:23 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 17:41:23 INFO  OneWayTripTest:44 - Selecting Flight
+2023-01-04 17:41:49 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 17:41:53 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 17:41:53 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 17:41:53 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 17:41:54 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 17:41:54 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 17:41:54 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 17:41:57 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 17:41:57 INFO  OneWayTripTest:44 - Selecting Flight
+2023-01-04 17:46:06 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 17:46:10 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 17:46:10 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 17:46:11 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 17:46:11 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 17:46:11 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 17:46:11 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 17:46:16 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 17:47:23 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 17:47:27 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 17:47:27 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 17:47:28 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 17:47:28 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 17:47:28 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 17:47:29 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 17:47:32 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 17:47:33 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 17:47:33 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 17:47:34 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 17:47:34 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 17:47:34 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 17:47:34 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 17:47:34 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 17:47:34 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 17:47:34 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 17:47:34 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 17:47:37 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 17:47:38 INFO  RoundTripTest:51 - Selecting Flight
+2023-01-04 17:48:27 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 17:48:32 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 17:48:32 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 17:48:32 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 17:48:32 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 17:48:33 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 17:48:33 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 17:48:37 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 17:48:37 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 17:48:38 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 17:48:38 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 17:48:38 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 17:48:38 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 17:48:38 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 17:48:38 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 17:48:38 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 17:48:38 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 17:48:38 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 17:48:41 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 17:49:16 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 17:49:21 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 17:49:21 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 17:49:21 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 17:49:22 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 17:49:22 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 17:49:22 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 17:49:27 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 17:49:27 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 17:49:28 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 17:49:28 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 17:49:28 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 17:49:28 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 17:49:28 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 17:49:28 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 17:49:28 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 17:49:28 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 17:49:28 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 17:49:32 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 17:49:32 INFO  VisaSubmissionTest:22 - Opening the Visa URL
+2023-01-04 17:49:34 INFO  VisaSubmissionTest:24 - Verifying Visa Page Title
+2023-01-04 17:49:34 INFO  VisaSubmissionTest:26 - Clicking on From Country Dropdown
+2023-01-04 17:49:34 INFO  VisaSubmissionTest:28 - Select from country
+2023-01-04 17:50:59 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 17:51:08 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 17:51:08 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 17:51:08 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 17:51:09 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 17:51:09 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 17:51:09 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 17:51:13 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 17:51:13 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 17:51:14 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 17:51:14 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 17:51:14 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 17:51:14 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 17:51:14 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 17:51:14 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 17:51:14 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 17:51:14 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 17:51:14 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 17:51:18 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 17:51:18 INFO  VisaSubmissionTest:22 - Opening the Visa URL
+2023-01-04 17:51:19 INFO  VisaSubmissionTest:24 - Verifying Visa Page Title
+2023-01-04 17:51:19 INFO  VisaSubmissionTest:26 - Clicking on From Country Dropdown
+2023-01-04 17:51:21 INFO  VisaSubmissionTest:29 - Select from country
+2023-01-04 17:58:40 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 17:58:45 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 17:58:45 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 17:58:46 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 17:58:47 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 17:58:47 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 17:58:47 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 17:58:52 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 17:58:52 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 17:58:53 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 17:58:53 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 17:58:54 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 17:58:55 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 17:58:56 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 17:58:56 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 17:58:56 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 17:58:56 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 17:58:57 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 17:59:00 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 17:59:01 INFO  VisaSubmissionTest:22 - Opening the Visa URL
+2023-01-04 17:59:03 INFO  VisaSubmissionTest:24 - Verifying Visa Page Title
+2023-01-04 17:59:03 INFO  VisaSubmissionTest:26 - Clicking on From Country Dropdown
+2023-01-04 18:02:51 INFO  VisaSubmissionTest:22 - Opening the Visa URL
+2023-01-04 18:02:55 INFO  VisaSubmissionTest:24 - Verifying Visa Page Title
+2023-01-04 18:02:55 INFO  VisaSubmissionTest:26 - Clicking on From Country Dropdown
+2023-01-04 18:06:29 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:06:33 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:06:33 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:06:40 INFO  VisaSubmissionTest:34 - Select from country
+2023-01-04 18:06:40 INFO  VisaSubmissionTest:36 - Clicking on To Country Dropdown
+2023-01-04 18:07:10 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:07:13 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:07:13 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:07:16 INFO  VisaSubmissionTest:32 - Select from country
+2023-01-04 18:07:16 INFO  VisaSubmissionTest:34 - Clicking on To Country Dropdown
+2023-01-04 18:07:38 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:07:41 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:07:41 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:07:42 INFO  VisaSubmissionTest:31 - Select from country
+2023-01-04 18:07:42 INFO  VisaSubmissionTest:33 - Clicking on To Country Dropdown
+2023-01-04 18:10:52 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:10:56 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:10:56 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:10:57 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:10:57 INFO  VisaSubmissionTest:32 - Select from country
+2023-01-04 18:10:57 INFO  VisaSubmissionTest:34 - Clicking on To Country Dropdown
+2023-01-04 18:10:57 INFO  VisaSubmissionTest:36 - Entering to search text
+2023-01-04 18:10:57 INFO  VisaSubmissionTest:39 - Select to country
+2023-01-04 18:10:58 INFO  VisaSubmissionTest:41 - Clicking on Date
+2023-01-04 18:10:58 INFO  VisaSubmissionTest:43 - Clicking on Current Date
+2023-01-04 18:10:58 INFO  VisaSubmissionTest:45 - Clicking on submit button
+2023-01-04 18:11:01 INFO  VisaSubmissionTest:48 - Verifying Visa Submit Page Title
+2023-01-04 18:11:01 INFO  VisaSubmissionTest:50 - Entering First Name
+2023-01-04 18:11:02 INFO  VisaSubmissionTest:52 - Entering Last Name
+2023-01-04 18:11:02 INFO  VisaSubmissionTest:54 - Entering Email ID
+2023-01-04 18:11:02 INFO  VisaSubmissionTest:56 - Entering Phone Number
+2023-01-04 18:11:02 INFO  VisaSubmissionTest:58 - Clicking on Date Picker
+2023-01-04 18:11:02 INFO  VisaSubmissionTest:60 - Selecting Date
+2023-01-04 18:11:02 INFO  VisaSubmissionTest:62 - Entering Notes
+2023-01-04 18:11:02 INFO  VisaSubmissionTest:64 - Clicking on Submit
+2023-01-04 18:11:12 INFO  VisaSubmissionTest:67 - Verifying Visa Submission Page Title
+2023-01-04 18:11:12 INFO  VisaSubmissionTest:69 - Verifying Visa Submission Text
+2023-01-04 18:14:51 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:15:02 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:15:02 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:15:02 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:15:03 INFO  VisaSubmissionTest:32 - Select from country
+2023-01-04 18:15:03 INFO  VisaSubmissionTest:34 - Clicking on To Country Dropdown
+2023-01-04 18:15:03 INFO  VisaSubmissionTest:36 - Entering to search text
+2023-01-04 18:15:03 INFO  VisaSubmissionTest:39 - Select to country
+2023-01-04 18:15:03 INFO  VisaSubmissionTest:41 - Clicking on Date
+2023-01-04 18:15:03 INFO  VisaSubmissionTest:43 - Clicking on Current Date
+2023-01-04 18:15:03 INFO  VisaSubmissionTest:45 - Clicking on submit button
+2023-01-04 18:15:09 INFO  VisaSubmissionTest:48 - Verifying Visa Submit Page Title
+2023-01-04 18:15:09 INFO  VisaSubmissionTest:50 - Entering First Name
+2023-01-04 18:15:09 INFO  VisaSubmissionTest:52 - Entering Last Name
+2023-01-04 18:15:09 INFO  VisaSubmissionTest:54 - Entering Email ID
+2023-01-04 18:15:09 INFO  VisaSubmissionTest:56 - Entering Phone Number
+2023-01-04 18:15:09 INFO  VisaSubmissionTest:58 - Clicking on Date Picker
+2023-01-04 18:15:09 INFO  VisaSubmissionTest:60 - Selecting Date
+2023-01-04 18:15:10 INFO  VisaSubmissionTest:62 - Entering Notes
+2023-01-04 18:15:10 INFO  VisaSubmissionTest:64 - Clicking on Submit
+2023-01-04 18:15:19 INFO  VisaSubmissionTest:67 - Verifying Visa Submission Page Title
+2023-01-04 18:15:19 INFO  VisaSubmissionTest:69 - Verifying Visa Submission Text
+2023-01-04 18:16:10 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:16:16 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:16:16 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:16:16 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:16:16 INFO  VisaSubmissionTest:32 - Select from country
+2023-01-04 18:16:16 INFO  VisaSubmissionTest:34 - Clicking on To Country Dropdown
+2023-01-04 18:16:17 INFO  VisaSubmissionTest:36 - Entering to search text
+2023-01-04 18:16:17 INFO  VisaSubmissionTest:39 - Select to country
+2023-01-04 18:16:17 INFO  VisaSubmissionTest:41 - Clicking on Date
+2023-01-04 18:16:17 INFO  VisaSubmissionTest:43 - Clicking on Current Date
+2023-01-04 18:16:17 INFO  VisaSubmissionTest:45 - Clicking on submit button
+2023-01-04 18:16:22 INFO  VisaSubmissionTest:48 - Verifying Visa Submit Page Title
+2023-01-04 18:16:22 INFO  VisaSubmissionTest:50 - Entering First Name
+2023-01-04 18:16:22 INFO  VisaSubmissionTest:52 - Entering Last Name
+2023-01-04 18:16:22 INFO  VisaSubmissionTest:54 - Entering Email ID
+2023-01-04 18:16:23 INFO  VisaSubmissionTest:56 - Entering Phone Number
+2023-01-04 18:16:23 INFO  VisaSubmissionTest:58 - Clicking on Date Picker
+2023-01-04 18:16:23 INFO  VisaSubmissionTest:60 - Selecting Date
+2023-01-04 18:16:23 INFO  VisaSubmissionTest:62 - Entering Notes
+2023-01-04 18:16:23 INFO  VisaSubmissionTest:64 - Clicking on Submit
+2023-01-04 18:16:33 INFO  VisaSubmissionTest:67 - Verifying Visa Submission Page Title
+2023-01-04 18:16:33 INFO  VisaSubmissionTest:69 - Verifying Visa Submission Text
+2023-01-04 18:17:22 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:17:27 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:17:27 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:17:27 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:17:27 INFO  VisaSubmissionTest:32 - Select from country
+2023-01-04 18:17:28 INFO  VisaSubmissionTest:34 - Clicking on To Country Dropdown
+2023-01-04 18:17:28 INFO  VisaSubmissionTest:36 - Entering to search text
+2023-01-04 18:17:28 INFO  VisaSubmissionTest:39 - Select to country
+2023-01-04 18:17:28 INFO  VisaSubmissionTest:41 - Clicking on Date
+2023-01-04 18:17:28 INFO  VisaSubmissionTest:43 - Clicking on Current Date
+2023-01-04 18:17:28 INFO  VisaSubmissionTest:45 - Clicking on submit button
+2023-01-04 18:17:33 INFO  VisaSubmissionTest:48 - Verifying Visa Submit Page Title
+2023-01-04 18:17:33 INFO  VisaSubmissionTest:50 - Entering First Name
+2023-01-04 18:17:34 INFO  VisaSubmissionTest:52 - Entering Last Name
+2023-01-04 18:17:34 INFO  VisaSubmissionTest:54 - Entering Email ID
+2023-01-04 18:17:34 INFO  VisaSubmissionTest:56 - Entering Phone Number
+2023-01-04 18:17:34 INFO  VisaSubmissionTest:58 - Clicking on Date Picker
+2023-01-04 18:17:34 INFO  VisaSubmissionTest:60 - Selecting Date
+2023-01-04 18:17:34 INFO  VisaSubmissionTest:62 - Entering Notes
+2023-01-04 18:17:34 INFO  VisaSubmissionTest:64 - Clicking on Submit
+2023-01-04 18:17:43 INFO  VisaSubmissionTest:67 - Verifying Visa Submission Page Title
+2023-01-04 18:17:43 INFO  VisaSubmissionTest:69 - Verifying Visa Submission Text
+2023-01-04 18:18:16 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:18:21 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:18:21 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:18:21 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:18:21 INFO  VisaSubmissionTest:32 - Select from country
+2023-01-04 18:18:21 INFO  VisaSubmissionTest:34 - Clicking on To Country Dropdown
+2023-01-04 18:18:21 INFO  VisaSubmissionTest:36 - Entering to search text
+2023-01-04 18:18:22 INFO  VisaSubmissionTest:39 - Select to country
+2023-01-04 18:18:22 INFO  VisaSubmissionTest:41 - Clicking on Date
+2023-01-04 18:18:22 INFO  VisaSubmissionTest:43 - Clicking on Current Date
+2023-01-04 18:18:22 INFO  VisaSubmissionTest:45 - Clicking on submit button
+2023-01-04 18:18:27 INFO  VisaSubmissionTest:48 - Verifying Visa Submit Page Title
+2023-01-04 18:18:27 INFO  VisaSubmissionTest:50 - Entering First Name
+2023-01-04 18:18:27 INFO  VisaSubmissionTest:52 - Entering Last Name
+2023-01-04 18:18:27 INFO  VisaSubmissionTest:54 - Entering Email ID
+2023-01-04 18:18:28 INFO  VisaSubmissionTest:56 - Entering Phone Number
+2023-01-04 18:18:28 INFO  VisaSubmissionTest:58 - Clicking on Date Picker
+2023-01-04 18:18:28 INFO  VisaSubmissionTest:60 - Selecting Date
+2023-01-04 18:18:28 INFO  VisaSubmissionTest:62 - Entering Notes
+2023-01-04 18:18:28 INFO  VisaSubmissionTest:64 - Clicking on Submit
+2023-01-04 18:18:37 INFO  VisaSubmissionTest:67 - Verifying Visa Submission Page Title
+2023-01-04 18:18:37 INFO  VisaSubmissionTest:69 - Verifying Visa Submission Text
+2023-01-04 18:18:49 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 18:18:57 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 18:18:57 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 18:18:57 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 18:18:57 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 18:18:57 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 18:18:57 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 18:18:59 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 18:18:59 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 18:19:02 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 18:19:02 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 18:19:02 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 18:19:02 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 18:19:02 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 18:19:02 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 18:19:02 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 18:19:02 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 18:19:02 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 18:19:04 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 18:19:04 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:19:07 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:19:07 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:19:07 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:19:19 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 18:19:25 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 18:19:25 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 18:19:25 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 18:19:26 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 18:19:26 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 18:19:26 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 18:19:34 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 18:19:34 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 18:19:37 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 18:19:37 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 18:19:37 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 18:19:37 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 18:19:37 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 18:19:37 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 18:19:37 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 18:19:38 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 18:19:38 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 18:19:40 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 18:19:40 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:19:42 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:19:42 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:19:42 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:19:58 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 18:20:03 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 18:20:03 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 18:20:04 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 18:20:04 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 18:20:04 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 18:20:04 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 18:20:04 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 18:20:05 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 18:20:05 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 18:20:14 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 18:20:14 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:20:17 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:20:17 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:20:17 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:20:44 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 18:20:50 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 18:20:50 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 18:20:50 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 18:20:50 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 18:20:50 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 18:20:50 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 18:20:58 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 18:20:58 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 18:21:01 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 18:21:01 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 18:21:01 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 18:21:01 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 18:21:01 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 18:21:01 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 18:21:01 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 18:21:01 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 18:21:01 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 18:21:03 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 18:21:03 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:21:05 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:21:06 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:21:06 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:22:06 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 18:22:12 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 18:22:12 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 18:22:12 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 18:22:13 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 18:22:13 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 18:22:13 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 18:22:13 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 18:22:13 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 18:22:13 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 18:22:22 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 18:22:22 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:22:26 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:22:26 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:22:26 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:22:26 INFO  VisaSubmissionTest:32 - Select from country
+2023-01-04 18:22:27 INFO  VisaSubmissionTest:34 - Clicking on To Country Dropdown
+2023-01-04 18:22:27 INFO  VisaSubmissionTest:36 - Entering to search text
+2023-01-04 18:22:27 INFO  VisaSubmissionTest:39 - Select to country
+2023-01-04 18:22:27 INFO  VisaSubmissionTest:41 - Clicking on Date
+2023-01-04 18:22:27 INFO  VisaSubmissionTest:43 - Clicking on Current Date
+2023-01-04 18:22:27 INFO  VisaSubmissionTest:45 - Clicking on submit button
+2023-01-04 18:22:32 INFO  VisaSubmissionTest:48 - Verifying Visa Submit Page Title
+2023-01-04 18:22:32 INFO  VisaSubmissionTest:50 - Entering First Name
+2023-01-04 18:22:32 INFO  VisaSubmissionTest:52 - Entering Last Name
+2023-01-04 18:22:32 INFO  VisaSubmissionTest:54 - Entering Email ID
+2023-01-04 18:22:32 INFO  VisaSubmissionTest:56 - Entering Phone Number
+2023-01-04 18:22:33 INFO  VisaSubmissionTest:58 - Clicking on Date Picker
+2023-01-04 18:22:33 INFO  VisaSubmissionTest:60 - Selecting Date
+2023-01-04 18:22:33 INFO  VisaSubmissionTest:62 - Entering Notes
+2023-01-04 18:22:33 INFO  VisaSubmissionTest:64 - Clicking on Submit
+2023-01-04 18:22:42 INFO  VisaSubmissionTest:67 - Verifying Visa Submission Page Title
+2023-01-04 18:22:42 INFO  VisaSubmissionTest:69 - Verifying Visa Submission Text
+2023-01-04 18:23:06 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 18:23:12 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 18:23:12 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 18:23:13 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 18:23:13 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 18:23:13 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 18:23:13 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 18:23:21 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 18:23:22 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 18:23:26 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 18:23:26 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 18:23:26 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 18:23:26 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 18:23:26 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 18:23:26 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 18:23:26 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 18:23:26 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 18:23:26 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 18:23:28 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 18:23:28 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:23:31 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:23:31 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:23:32 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:23:32 INFO  VisaSubmissionTest:32 - Select from country
+2023-01-04 18:23:32 INFO  VisaSubmissionTest:34 - Clicking on To Country Dropdown
+2023-01-04 18:23:32 INFO  VisaSubmissionTest:36 - Entering to search text
+2023-01-04 18:23:33 INFO  VisaSubmissionTest:39 - Select to country
+2023-01-04 18:23:33 INFO  VisaSubmissionTest:41 - Clicking on Date
+2023-01-04 18:23:33 INFO  VisaSubmissionTest:43 - Clicking on Current Date
+2023-01-04 18:23:33 INFO  VisaSubmissionTest:45 - Clicking on submit button
+2023-01-04 18:23:38 INFO  VisaSubmissionTest:48 - Verifying Visa Submit Page Title
+2023-01-04 18:23:38 INFO  VisaSubmissionTest:50 - Entering First Name
+2023-01-04 18:23:38 INFO  VisaSubmissionTest:52 - Entering Last Name
+2023-01-04 18:23:38 INFO  VisaSubmissionTest:54 - Entering Email ID
+2023-01-04 18:23:39 INFO  VisaSubmissionTest:56 - Entering Phone Number
+2023-01-04 18:23:39 INFO  VisaSubmissionTest:58 - Clicking on Date Picker
+2023-01-04 18:23:39 INFO  VisaSubmissionTest:60 - Selecting Date
+2023-01-04 18:23:39 INFO  VisaSubmissionTest:62 - Entering Notes
+2023-01-04 18:23:39 INFO  VisaSubmissionTest:64 - Clicking on Submit
+2023-01-04 18:23:48 INFO  VisaSubmissionTest:67 - Verifying Visa Submission Page Title
+2023-01-04 18:23:48 INFO  VisaSubmissionTest:69 - Verifying Visa Submission Text
+2023-01-04 18:24:31 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 18:24:37 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 18:24:37 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 18:24:38 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 18:24:38 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 18:24:38 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 18:24:38 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 18:24:48 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 18:24:48 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 18:24:51 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 18:24:52 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 18:24:52 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 18:24:52 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 18:24:52 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 18:24:52 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 18:24:52 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 18:24:52 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 18:24:52 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 18:24:54 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 18:24:54 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:24:57 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:24:57 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:24:57 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:27:46 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 18:27:53 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 18:27:53 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 18:27:53 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 18:27:54 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 18:27:54 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 18:27:54 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 18:28:08 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 18:28:08 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 18:28:11 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 18:28:11 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 18:28:11 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 18:28:11 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 18:28:11 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 18:28:11 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 18:28:11 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 18:28:11 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 18:28:11 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 18:28:13 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 18:28:13 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:28:17 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:28:17 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:28:17 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:29:55 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 18:30:01 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 18:30:01 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 18:30:02 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 18:30:02 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 18:30:02 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 18:30:02 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 18:30:15 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 18:30:15 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 18:30:19 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 18:30:19 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 18:30:19 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 18:30:19 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 18:30:19 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 18:30:19 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 18:30:19 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 18:30:19 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 18:30:19 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 18:30:21 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 18:30:21 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:30:25 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:30:25 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:30:25 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:32:29 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 18:32:38 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 18:32:38 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 18:32:38 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 18:32:38 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 18:32:39 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 18:32:39 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 18:32:49 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 18:32:49 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 18:32:53 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 18:32:53 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 18:32:53 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 18:32:53 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 18:32:53 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 18:32:53 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 18:32:53 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 18:32:53 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 18:32:53 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 18:32:55 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 18:32:55 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:33:00 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:33:00 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:33:00 INFO  VisaSubmissionTest:29 - Entering from search text
+2023-01-04 18:34:09 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 18:34:14 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 18:34:14 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 18:34:15 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 18:34:15 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 18:34:15 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 18:34:15 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 18:34:25 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 18:34:25 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 18:34:29 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 18:34:29 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 18:34:29 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 18:34:29 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 18:34:29 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 18:34:29 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 18:34:29 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 18:34:29 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 18:34:29 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 18:34:31 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 18:34:31 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 18:34:36 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 18:34:36 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 18:34:38 INFO  VisaSubmissionTest:30 - Entering from search text
+2023-01-04 18:34:39 INFO  VisaSubmissionTest:33 - Select from country
+2023-01-04 18:34:39 INFO  VisaSubmissionTest:35 - Clicking on To Country Dropdown
+2023-01-04 18:34:41 INFO  VisaSubmissionTest:38 - Entering to search text
+2023-01-04 18:34:41 INFO  VisaSubmissionTest:41 - Select to country
+2023-01-04 18:34:41 INFO  VisaSubmissionTest:43 - Clicking on Date
+2023-01-04 18:34:41 INFO  VisaSubmissionTest:45 - Clicking on Current Date
+2023-01-04 18:34:41 INFO  VisaSubmissionTest:47 - Clicking on submit button
+2023-01-04 18:34:47 INFO  VisaSubmissionTest:50 - Verifying Visa Submit Page Title
+2023-01-04 18:34:47 INFO  VisaSubmissionTest:52 - Entering First Name
+2023-01-04 18:34:48 INFO  VisaSubmissionTest:54 - Entering Last Name
+2023-01-04 18:34:48 INFO  VisaSubmissionTest:56 - Entering Email ID
+2023-01-04 18:34:48 INFO  VisaSubmissionTest:58 - Entering Phone Number
+2023-01-04 18:34:49 INFO  VisaSubmissionTest:60 - Clicking on Date Picker
+2023-01-04 18:34:49 INFO  VisaSubmissionTest:62 - Selecting Date
+2023-01-04 18:34:49 INFO  VisaSubmissionTest:64 - Entering Notes
+2023-01-04 18:34:49 INFO  VisaSubmissionTest:66 - Clicking on Submit
+2023-01-04 18:35:02 INFO  VisaSubmissionTest:69 - Verifying Visa Submission Page Title
+2023-01-04 18:35:02 INFO  VisaSubmissionTest:71 - Verifying Visa Submission Text
+2023-01-04 19:50:38 INFO  OneWayTripTest:27 - Opening the PHP Travels Flights URL
+2023-01-04 19:50:49 INFO  OneWayTripTest:29 - Verifying Flight Page Title
+2023-01-04 19:50:49 INFO  OneWayTripTest:31 - Entering From Text
+2023-01-04 19:50:50 INFO  OneWayTripTest:33 - Entering To Text
+2023-01-04 19:50:50 INFO  OneWayTripTest:35 - Clicking on Departure Date
+2023-01-04 19:50:50 INFO  OneWayTripTest:37 - Clicking on Current Date
+2023-01-04 19:50:50 INFO  OneWayTripTest:39 - Clicking on Flight Search
+2023-01-04 19:50:55 INFO  OneWayTripTest:42 - Verifying Flight Selection Page Title
+2023-01-04 19:50:55 INFO  RoundTripTest:28 - Opening the PHP Travels Flights URL
+2023-01-04 19:50:56 INFO  RoundTripTest:30 - Verifying Flight Page Title
+2023-01-04 19:50:56 INFO  RoundTripTest:32 - Clicking on Round Trip
+2023-01-04 19:50:56 INFO  OneWayTripTest:63 - Element is not present in the webpage to perform click action.
+2023-01-04 19:50:56 INFO  RoundTripTest:34 - Entering From Text
+2023-01-04 19:50:56 INFO  OneWayTripTest:55 - Element is not present in the webpage to send text.
+2023-01-04 19:50:56 INFO  RoundTripTest:36 - Entering To Text
+2023-01-04 19:50:56 INFO  OneWayTripTest:55 - Element is not present in the webpage to send text.
+2023-01-04 19:50:56 INFO  RoundTripTest:38 - Clicking on Departure Date
+2023-01-04 19:50:56 INFO  OneWayTripTest:63 - Element is not present in the webpage to perform click action.
+2023-01-04 19:50:56 INFO  RoundTripTest:40 - Clicking on Current Date
+2023-01-04 19:50:56 INFO  OneWayTripTest:63 - Element is not present in the webpage to perform click action.
+2023-01-04 19:50:56 INFO  RoundTripTest:42 - Clicking on Return Date
+2023-01-04 19:50:56 INFO  OneWayTripTest:63 - Element is not present in the webpage to perform click action.
+2023-01-04 19:50:56 INFO  RoundTripTest:44 - Clicking on Next Return Date
+2023-01-04 19:50:56 INFO  OneWayTripTest:63 - Element is not present in the webpage to perform click action.
+2023-01-04 19:50:56 INFO  RoundTripTest:46 - Clicking on Flight Search
+2023-01-04 19:50:56 INFO  OneWayTripTest:63 - Element is not present in the webpage to perform click action.
+2023-01-04 19:50:58 INFO  RoundTripTest:49 - Verifying Flight Selection Page Title
+2023-01-04 19:50:58 INFO  VisaSubmissionTest:23 - Opening the Visa URL
+2023-01-04 19:50:59 INFO  VisaSubmissionTest:25 - Verifying Visa Page Title
+2023-01-04 19:50:59 INFO  VisaSubmissionTest:27 - Clicking on From Country Dropdown
+2023-01-04 19:50:59 INFO  OneWayTripTest:63 - Element is not present in the webpage to perform click action.
+2023-01-04 19:51:01 INFO  VisaSubmissionTest:30 - Entering from search text
+2023-01-04 19:51:04 INFO  OneWayTripTest:45 - Element not displayed in DOM
+2023-01-04 19:51:04 INFO  OneWayTripTest:63 - Element is not present in the webpage to perform click action.
+2023-01-04 19:51:07 INFO  OneWayTripTest:45 - Element not displayed in DOM
+2023-01-04 19:51:07 INFO  OneWayTripTest:55 - Element is not present in the webpage to send text.
+2023-01-04 19:51:07 INFO  VisaSubmissionTest:33 - Select from country
+2023-01-04 19:51:10 INFO  OneWayTripTest:45 - Element not displayed in DOM
+2023-01-04 19:51:10 INFO  OneWayTripTest:63 - Element is not present in the webpage to perform click action.
+2023-01-04 19:51:10 INFO  VisaSubmissionTest:35 - Clicking on To Country Dropdown
+2023-01-04 19:51:13 INFO  VisaSubmissionTest:38 - Entering to search text
+2023-01-04 19:51:13 INFO  VisaSubmissionTest:41 - Select to country
+2023-01-04 19:51:13 INFO  VisaSubmissionTest:43 - Clicking on Date
+2023-01-04 19:51:13 INFO  VisaSubmissionTest:45 - Clicking on Current Date
+2023-01-04 19:51:13 INFO  VisaSubmissionTest:47 - Clicking on submit button
+2023-01-04 19:51:16 INFO  VisaSubmissionTest:50 - Verifying Visa Submit Page Title
+2023-01-04 19:51:16 INFO  VisaSubmissionTest:52 - Entering First Name
+2023-01-04 19:51:19 INFO  OneWayTripTest:45 - Element not displayed in DOM
+2023-01-04 19:51:19 INFO  OneWayTripTest:55 - Element is not present in the webpage to send text.
+2023-01-04 19:51:19 INFO  VisaSubmissionTest:54 - Entering Last Name
+2023-01-04 19:51:22 INFO  OneWayTripTest:45 - Element not displayed in DOM
+2023-01-04 19:51:22 INFO  OneWayTripTest:55 - Element is not present in the webpage to send text.
+2023-01-04 19:51:22 INFO  VisaSubmissionTest:56 - Entering Email ID
+2023-01-04 19:51:25 INFO  OneWayTripTest:45 - Element not displayed in DOM
+2023-01-04 19:51:25 INFO  OneWayTripTest:55 - Element is not present in the webpage to send text.
+2023-01-04 19:51:25 INFO  VisaSubmissionTest:58 - Entering Phone Number
+2023-01-04 19:51:28 INFO  OneWayTripTest:45 - Element not displayed in DOM
+2023-01-04 19:51:28 INFO  OneWayTripTest:55 - Element is not present in the webpage to send text.
+2023-01-04 19:51:28 INFO  VisaSubmissionTest:60 - Clicking on Date Picker
+2023-01-04 19:51:31 INFO  OneWayTripTest:45 - Element not displayed in DOM
+2023-01-04 19:51:31 INFO  OneWayTripTest:82 - Element is not present in the webpage to perform click action.
+2023-01-04 19:51:31 INFO  VisaSubmissionTest:62 - Selecting Date
+2023-01-04 19:51:31 INFO  OneWayTripTest:63 - Element is not present in the webpage to perform click action.
+2023-01-04 19:51:31 INFO  VisaSubmissionTest:64 - Entering Notes
+2023-01-04 19:51:34 INFO  OneWayTripTest:45 - Element not displayed in DOM
+2023-01-04 19:51:34 INFO  OneWayTripTest:55 - Element is not present in the webpage to send text.
+2023-01-04 19:51:34 INFO  VisaSubmissionTest:66 - Clicking on Submit
+2023-01-04 19:51:36 INFO  VisaSubmissionTest:69 - Verifying Visa Submission Page Title

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PHP Travels Automation">
+    <test verbose="2" name="One Way Trip Test">
+        <classes>
+            <class name="Testcases.OneWayTripTest"/>
+            <class name="Testcases.RoundTripTest"/>
+            <class name="Testcases.VisaSubmissionTest"/>
+        </classes>
+    </test>
+</suite>
