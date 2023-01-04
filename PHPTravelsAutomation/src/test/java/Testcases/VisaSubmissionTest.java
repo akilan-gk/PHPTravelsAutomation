@@ -11,6 +11,10 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
+/**
+ * Test Case ID = 03
+ * Test Description = Verifying the Visa Submission functionality
+ **/
 public class VisaSubmissionTest extends BrowserHandler {
     static Logger logger = Logger.getLogger(VisaSubmissionTest.class);
     @Test

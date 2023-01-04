@@ -1,6 +1,5 @@
 package Reusables;
 
-import Testcases.OneWayTripTest;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchElementException;
